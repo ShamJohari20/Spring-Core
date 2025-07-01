@@ -13,6 +13,9 @@ This repository contains hands-on examples and assignments built using the **Spr
 ### 2. IOC-Ass01-DI
 
 ---
+### 3. IOCProj02-Cyclic-DI
+
+---
 
 ## 🛠 Technologies Used
 
