@@ -1,6 +1,0 @@
-package com.nit.sj.sbeans;
-
-public interface IEngine {
-	public String startEngine();
-	public String stopEngine();
-}
