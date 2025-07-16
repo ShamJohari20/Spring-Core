@@ -1,0 +1,17 @@
+package com.nit.sj.comps;
+
+public class MSwift implements ICar {
+
+	@Override
+	public void carOrder() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void carDrive() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.nit.sj.comps;
+
+public interface ICar {
+
+}

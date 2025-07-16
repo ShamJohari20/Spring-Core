@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.nit.sj.sbeans;
+
+/**
+ * 
+ */
+public class PetrolEngine implements IEngine {
+
+	@Override
+	public String startEngine() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String stopEngine() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

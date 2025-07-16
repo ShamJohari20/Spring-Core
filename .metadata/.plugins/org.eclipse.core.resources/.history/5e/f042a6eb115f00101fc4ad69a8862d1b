@@ -1,0 +1,5 @@
+package com.nit.sj.component;
+
+public enum ICourier {
+	public void deleverd();
+}

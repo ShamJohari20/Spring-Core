@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.nit.sj.sbeans;
+/**
+ * 
+ */
+public class DiselEngine implements IEngine {
+	
+	public DiselEngine() {
+	System.out.println("PetrolEngine.PetrolEngine()");
+	}
+
+	@Override
+	public String startEngine() {
+		System.out.println("PetrolEngine.startEngine()");
+		return "Start WIth Petrol Engine";
+	}
+
+	@Override
+	public String stopEngine() {
+		System.out.println("PetrolEngine.stopEngine()");
+		return "Stop WIth Petrol Engine";
+	}
+
+}

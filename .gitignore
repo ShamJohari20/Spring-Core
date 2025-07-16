@@ -1,0 +1,71 @@
+# =========================
+# Maven
+# =========================
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# =========================
+# Eclipse / Spring Tool Suite
+# =========================
+.classpath
+.project
+.settings/
+.metadata/      # Eclipse workspace lock & settings
+.metadata       # Just in case
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment Files
+# =========================
+.env
+*.env
+
+# =========================
+# Spring Boot Specific
+# =========================
+application-*.yml
+application-*.properties
+
+# =========================
+# Compiled Class Files
+# =========================
+*.class
+
+# =========================
+# Build Tools
+# =========================
+build/

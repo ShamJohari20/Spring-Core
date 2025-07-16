@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package com.nit.sj.sbeans;
+
+import org.springframework.stereotype.Component;
+
+@Component("de")
+public class DiselEngine implements IEngine {
+	
+	public DiselEngine() {
+	System.out.println("DiselEngine.DiselEngine()");
+	}
+
+	@Override
+	public String startEngine() {
+		System.out.println("DiselEngine.startEngine()");
+		return "Start WIth Disel Engine";
+	}
+
+	@Override
+	public String stopEngine() {
+		System.out.println("DiselEngine.stopEngine()");
+		return "Stop WIth Disel Engine";
+	}
+
+}
