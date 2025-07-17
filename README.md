@@ -66,6 +66,8 @@ This project helps developers:
 | `proj11-Strategy-DP-Using-Spring` | Strategy Pattern implemented using Spring beans |
 | `proj12-Statergy-DP-in-maven` | Maven-based Strategy Design Pattern project |
 | `proj13-SingletoneClass` | Demonstration of Singleton scope in Spring |
+| `proj14-PrototypeScope` | Demonstration of Prototype scope in Spring |
+
 
 ---
 
