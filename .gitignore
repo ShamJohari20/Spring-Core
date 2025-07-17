@@ -69,3 +69,4 @@ application-*.properties
 # Build Tools
 # =========================
 build/
+/.metadata/
